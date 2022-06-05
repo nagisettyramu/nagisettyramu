@@ -1,5 +1,4 @@
-### Hi there 👋
-
+<a href="https://app.daily.dev/ramudev"><img src="https://api.daily.dev/devcards/b1efb75dc29a49a5a3d43476a2c76f16.png?r=pz6" width="400" alt="Ramu Nagisetty's Dev Card"/></a>
 <!--
 **nagisettyramu/nagisettyramu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
