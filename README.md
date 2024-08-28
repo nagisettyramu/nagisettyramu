@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Ramu Nagisetty]!
+# 👋 Hello, I'm Ramu Nagisetty!
 
 I am a passionate Full Stack Developer with a strong background in building robust and scalable web applications. My expertise spans both frontend and backend development, and I enjoy solving complex problems with clean, efficient code.
 
@@ -24,10 +24,6 @@ I am a passionate Full Stack Developer with a strong background in building robu
 ## 🛤️ Development Philosophy
 
 I believe in writing clean, maintainable code that not only works but is also easy for others to understand and extend. My approach to development is deeply rooted in continuous learning and adapting to new technologies and methodologies.
-
-## 🌱 Currently Learning
-- **Microservices Architecture**: Decomposing applications into smaller, manageable pieces.
-- **Cloud Infrastructure (AWS, Azure)**: Expanding my DevOps skills to include cloud-based deployments.
 
 ## 📈 GitHub Stats
 
